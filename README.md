@@ -18,9 +18,9 @@ Este projeto é uma aplicação de agenda de contatos construída com **React**.
 
 ### 1. Clone o repositório
 
-git clone https://github.com/seu-usuario/sua-agenda.git
+git clone https://github.com/marcanogc/agenda.git
 
-cd sua-agenda
+cd agenda
 
 2. Instale as dependências
 
